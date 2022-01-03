@@ -9,7 +9,7 @@
 ## What am I doing?
 <hr>
 
-- Translate MultiMC Minecraft Launcher
+- Translating MultiMC Minecraft Launcher
 - Practice playing Minecraft
-- Learn Java and Kotlin
-- Learn Japanese
+- Learning Java and Kotlin
+- Learning Japanese
